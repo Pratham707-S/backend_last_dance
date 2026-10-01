@@ -159,3 +159,6 @@ Data: ...
 1. `module.exports` se data bahar bhejo, `require()` se mangwao.
 2. Built-in modules ke liye `./` nahi lagta (jaise `require("fs")`).
 3. Production backend me hamesha **Async operations** prefer kiye jaate hain taaki server block na ho.
+
+
+utf 8 = ka kam hota hai un binary numbers ko normal readable text me convert karna 

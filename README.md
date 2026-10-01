@@ -7,12 +7,12 @@
 
 ## 📊 Progress Tracker
 
-- **Completed:** `2 / 60 Days` (3.3%)
+- **Completed:** `3 / 60 Days` (5.0%)
 - **Status:** In Progress ⚡
 - **Repository Structure:** Day-wise hands-on code, notes, and mini-projects.
 
 ```text
-Progress: [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3.3%
+Progress: [███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.0%
 ```
 
 ---
@@ -22,7 +22,7 @@ Progress: [██░░░░░░░░░░░░░░░░░░░░░
 ### 🟢 Week 1: Node.js Core & Fundamentals
 - [x] **Day 1**: Node.js Intro, Architecture, Global Objects & Basic Modules ([📁 Day 1 Notes](./Node-/day-1/))
 - [x] **Day 2**: Module Wrapper, File System (`fs`), HTTP Server & Event Loop Deep Dive ([📁 Day 2 Notes](./Node-/day-2/))
-- [ ] **Day 3**: Modules, Path, OS and Advanced File System Streams
+- [x] **Day 3**: Modules, Path, OS, Event Emitters & Advanced File System ([📁 Day 3 Notes](./Node-/day-3/))
 - [ ] **Day 4**: Event Loop, Thread Pool & Streams / Buffer Deep Dive
 - [ ] **Day 5**: Networking with HTTP, Headers, Status Codes & Query Params
 
